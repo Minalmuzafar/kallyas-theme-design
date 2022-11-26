@@ -1,2 +1,1 @@
-# Kallyas
- kallyas
+# kallyas-theme-design
